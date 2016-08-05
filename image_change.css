@@ -1,0 +1,86 @@
+
+	<head>
+		<title> Caroline Crawford's Portfolio </title>
+		<link rel = "stylesheet" type = "text/css" href = "portfolioCSS.css" >
+		
+	</head>
+
+	<body>
+    <h1> Caroline Crawford's Portfolio </h1>
+    <p> Student at Girls Who Code Summer Immersion Program</p>
+   
+ 	<h4> Some of My Projects: </h4>
+ 		<li> Paddle Ball </li>
+ 		<li> Pig </li>
+ 		<li> Jukebox </li>
+ 		<li> Obamicon</li>
+ 		<li> Bouncing Ball</li>
+ 		<li> Snow Fall </li>
+ 		<li> City Scroller</li>
+ 		<li> Runner Game </li> 
+ 	<h4> Languages Used </h4>
+ 		<li> Scratch </li>
+ 		<li> Python </li> 
+ 		<li> HTML </li>
+ 		<li> CSS </li>
+ 		<li> C++ </li>
+ 		<li> JavaScript </li>
+ 		
+ 	
+ 	<h2> Paddle Ball </h2>
+ 	<p id = "bold"> Description: </p>
+ 	<p> Language Used: Scratch </p>
+ 	<p>Paddle ball is a game in which a ball bounces around a window, and the player moves a paddle back and forth across the screen to try and keep the ball up in the air.</p>
+ 	<img src = "paddlecode1.png" width="400" height="350" >
+ 	<img src = "paddlecode2.png" width="400" height="350">
+ 	<img src = "paddle2.png" width="400" height="350">
+ 	
+ 	
+ 	<h2> Pig </h2>
+ 	<p id = "bold"> Description: </p>
+ 	<p> Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the rolls (i.e. the turn total). At any time during a player's turn, the player is faced with two options: 
+ 	</p>
+ 	<p>	Roll: If the player rolls a 1, the player scores nothing for this turn, and it becomes the next player's turn. If the player rolls a number 2 - 6, the number on the die is added to the player's turn total, and the player's turn continues. 
+ 	</p>
+ 	<p> Hold: The player turn total is added to the player's overall score, and it becomes the next player's turn.
+	</p>
+	<p> Language Used: Scratch </p>
+ 	<img src = "dicecode.png" width="550" height="500">
+ 	<img src = "dice.png" width="550" height="500">
+ 	
+ 	
+ 	<h2> Jukebox </h2>
+ 	<p id = "bold"> Description: </p>
+ 	<p> Include a clear user interface. </p>
+ 	<p> Allow users to create a playlist. </p>
+	<p>	Allow users to play or stop the playlist entirely. </p>
+	<p> Allow users to choose between at least 3 different songs. </p>
+	<p> Language Used: Scratch </p>
+ 	<img src = "jukeboxcode1.png" width="500" height="350" >
+ 	<img src = "jukeboxcode2.png" width="500" height="350" >
+ 	<img src = "jukeboxcode3.png" width="500" height="350" >
+ 	<img src = "jukebox.png" width="500" height="350" >
+ 	
+ 	
+ 	<h2> Obamicon </h2>
+ 	<p id = "bold"> Description: </p>
+ 	<p> You can get a similar effect if you look at each pixel’s RGB, or red green blue, values. RGB values work like light. 
+ 	</p
+ 	<p> If you add all the values together, you get a number that correlates to how “light” the color is. Lighter colors get colorized yellow. Medium/light colors get coded as light blue. Medium/dark colors are red and very dark colors get coded as dark blue.
+	</p>
+ 	<p> Language Used: Python </p>
+ 	<img src = "obamiconcode.png" width="420" height="420" >
+ 	<img src = "leslieorig.png" width="400" height="420" >
+ 	<img src = "leslieobamicon.png" width="400" height="420" >
+ 	
+ 	<h2> Bouncing Ball </h2>
+ 	<p id = "bold"> Description: </p>
+ 	<p> <a href="file:///Users/caroline/Desktop/Python/bouncing_ball.py" target = "blank" >Bouncing Ball Code</a>
+ 	</p>
+ 	<img src = "ball.png" width="470" height="400" >
+ 	<img src = "ball2.png" width="470" height="400" >
+ 	<h2> Snow Fall </h2>
+ 	<p id = "bold"> Description: </p>
+ 	
+ 	<h2> City Scroller </h2>
+ 	<p id = "bold"> Description: </p>

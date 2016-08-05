@@ -1,0 +1,16 @@
+<style>
+body {
+	color: black;
+	background-color: bccbde;
+	font-family: "courier new";
+	font-size: 150%;
+}
+
+a {
+	color: red;
+}
+
+#bold {
+	font-weight: bold;
+}
+</style>
